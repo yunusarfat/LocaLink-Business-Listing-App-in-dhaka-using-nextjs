@@ -6,7 +6,7 @@ A modern full-stack web application built with **Next.js**, **TypeScript**, **Ta
 
 ## 🚀 Features
 
-- 🔍 **Search by place type and city** (e.g., `cafe chittagong`)
+- 🔍 **Search by place type and city** (e.g., `cafe Dhaka`)
 - 📍 **Geoapify Geocoding API** to get location coordinates
 - 🗺️ **Places API** to fetch matching businesses and services
 - 🧭 **Map preview and Google Maps directions**
